@@ -1,0 +1,268 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    float: left;
+}
+ul {
+    padding: 0px;
+
+}
+.menu-principal  {
+    width: 100%;
+    background-color: black;
+    height: 60%;
+}
+main {
+    width: 980px;
+    position: relative;
+    margin: 0 auto;
+
+}
+.logo {
+    padding: 8px;
+    width: 100%;
+}
+#logo{
+    margin-top: 1px;
+    
+
+}
+.header-2{
+    background-color: white;
+    width: 980px;
+    margin: 0 auto;
+    padding: 11.8px;
+    margin-right: 242px;
+}
+.menu-urls{
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+}
+.menu ul li {
+    display: inline-block;
+    color: black;
+    height: 25px;
+    margin-bottom: 2px;
+    margin-left: 0.5px;
+
+}
+.menu ul li a:hover{
+    color: black;
+    border-bottom: 3px dotted black ;
+}
+.menu ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 21px;
+    text-transform: uppercase;
+    margin-right: 17px;
+}
+.menu{
+    width: 70%;
+    float: left;
+}
+.busca{
+    width: 50%;
+    height: 200%;
+    margin-right: 100px;
+    margin-left: 600px;
+
+}
+#search{
+    font-size: 16px;
+}
+#searchindex{
+    font-size: 16px;
+}
+.busca input {
+    background-image: url('../img/search.png');
+    background-repeat: no-repeat;
+    background-position: 96%;
+    margin-top: 7px;
+    height: 40px;
+    padding: 15px;
+    width: 211px;
+    border: 1px solid #d6d6d6;
+    margin-left: 105px;
+
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position: relative;
+
+}
+#carrinho {
+    width: 40px;
+    height: 40px;
+    float: right;
+    text-align: right;
+    padding-top: 18px;
+    margin-left: 10px;
+}
+.menu2{
+    height: 100%;
+    width: 92%;
+    margin-left: 2px;
+    margin-top: 100px;
+    margin-right: 15px;
+}
+.menu2-urls{
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+    margin-right: 10px;
+}
+.menu2 ul li {
+    display: inline-block;
+    color: black;
+    margin-left: 100px;
+    height: 30px;
+    padding-top: 10px;
+    border: 3px black solid;
+}
+.menu2 ul li:hover {
+    border-bottom: 3px groove black;
+
+}
+.menu2 ul li a:hover{
+    color: black;
+}
+.menu2 ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+#panfleto {
+    height: 100%;
+    width: 1380px;
+    float: center;
+}
+.menuindex{
+    width: 60%;
+    float: left;
+    height: -50%;
+}
+.buscaindex{
+    text-align: center;
+    width: 10%;
+    float: right;
+}
+.header-2index{
+    background-color: white;
+    width: 980px;
+    margin: 0 auto;
+    padding: 5px;
+}
+.col-100index {
+    width: 100%;
+    float: left;
+    position: relative;
+    height: 70px;
+
+}
+.menuindex-urls{
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+}
+.menuindex ul li {
+    display: inline-block;
+    color: black;
+    margin-left: 16px;
+    height: 20px;
+    margin-top:4.1px;
+}
+.menuindex ul li:hover {
+    border-bottom: 3px dotted black;
+
+}
+.menuindex ul li a:hover{
+    color: black;
+}
+.menuindex ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+.buscaindex{
+    text-align: center;
+    width: 30.6%;
+    float: right;
+    font-size: 10px
+}
+.buscaindex input {
+    background-image: url('../img/search.png');
+    background-repeat: no-repeat;
+    background-position: 96%;
+    margin-top: 11px;
+    height: 36px;
+    padding: 12px;
+    width: 193px;
+    border: 1px solid #d6d6d6;
+    font-size: 10px
+
+}
+.menu-principalindex  {
+    width: 100%;
+    background-color: black;
+    height: 70px;
+}
+.logoindex {
+    padding: 8px;
+    width:  100%;
+}
+#logoindex {
+    height: 16%;
+    width: 16.01%;
+    margin-right: 1px;
+    margin-bottom: 100px;
+}
+.divmenu2{
+    height: 100%;
+    width: 100%;
+    margin-left: 80px;
+    margin-top: 100px;
+
+}
+.menu22{
+    height: 100%;
+    width: 93%;
+    margin-left: 75px;
+    margin-top: 100px;
+    margin-right: 10px;
+}
+.menu22-urls{
+    height: 80px;
+    border-bottom: 3px solid #efefef;
+    margin-left: 10px;
+}
+.menu22 ul li {
+    display: inline-block;
+    color: black;
+    margin-left: 100px;
+    height: 30px;
+    padding-top: 10px;
+    border: 3px black solid;
+}
+.menu22 ul li:hover {
+    border-bottom: 3px groove black;
+
+}
+.menu22 ul li a:hover{
+    color: black;
+    background-color: grey;
+}
+.menu22 ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 19px;
+    text-transform: uppercase;
+}
+#comprar{
+    padding: 70px;
+}
+#comprar1{
+    width: 100;
+}
